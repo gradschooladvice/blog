@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advice with Replacement</title>
+    <link>http://gradschooladvice.github.io/</link>
+    <description>Recent content on Advice with Replacement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2020 16:56:54 +0000</lastBuildDate><atom:link href="http://gradschooladvice.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surviving Grad School in the Pandemic</title>
+      <link>http://gradschooladvice.github.io/posts/2020-09-28-grad-school-in-pandemic/</link>
+      <pubDate>Mon, 28 Sep 2020 16:56:54 +0000</pubDate>
+      
+      <guid>http://gradschooladvice.github.io/posts/2020-09-28-grad-school-in-pandemic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About us</title>
+      <link>http://gradschooladvice.github.io/about/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://gradschooladvice.github.io/about/</guid>
+      <description>Email: stat[dot]grad[dot]school[dot]blog[at]gmail[dot]com</description>
+    </item>
+    
+  </channel>
+</rss>
