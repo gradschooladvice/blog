@@ -9,6 +9,8 @@ We are three PhD students who met during our remote summer internship during the
 
 ### [Mikaela Meyer](https://mikaelameyer.netlify.app)
 
+Mikaela is a third year Ph.D. student in the joint Statistics and Public Policy Ph.D. program at Carnegie Mellon University. Her research thus far has focused on applying statistics to criminal justice problems, such as racial disparities in police use-of-force, and statistics pedagogy. In her spare time, Mikaela enjoys playing every team intramural sport at CMU (in non-pandemic times), playing board games, and riding her bike.
+
 ### [Dana Udwin](https://www.danaudwin.com)
 
 Email: stat[dot]grad[dot]school[dot]blog[at]gmail[dot]com
