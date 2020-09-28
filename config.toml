@@ -4,4 +4,4 @@ title = "Advice with Replacement"
 theme = "cactus"
 
 [submodule "public"]
-    url = https://github.com/gradschooladvice/gradschooladvice.github.io.git
+    url = "https://github.com/gradschooladvice/gradschooladvice.github.io.git"
