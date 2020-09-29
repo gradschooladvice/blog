@@ -1,4 +1,4 @@
-baseURL = "http://gradschooladvice.github.io"
+baseURL = "https://gradschooladvice.github.io"
 languageCode = "en-us"
 title = "Advice with Replacement"
 theme = "cactus"
