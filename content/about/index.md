@@ -2,10 +2,15 @@
 title: About us
 date: 2020-09-28
 ---
+A lot of information in graduate school is shared through informal channels, like coffee chats, happy hours, and random office encounters. The goal of this blog is to try and provide a compilation of advice in a more formal setting so that everyone can have easier access to it. 
+
+## Who are we? 
 
 We are three PhD students who met during our remote summer internship during the summer of 2020. 
 
 ### [Melody Huang](https://melodyyhuang.github.io/)
+
+Melody is a third year Ph.D. student at UCLA studying Statistics. Her primary research interests are in causal inference and social statistics. Besides research, she likes leaving her apartment to go outside, scrolling through Twitter, and watching the Bachelor. 
 
 ### [Mikaela Meyer](https://mikaelameyer.netlify.app)
 
