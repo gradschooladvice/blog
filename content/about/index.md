@@ -6,7 +6,7 @@ A lot of information in graduate school is shared through informal channels, lik
 
 ## Who are we? 
 
-We are three PhD students who met during our remote summer internship during the summer of 2020. 
+We are three PhD students who met during our remote summer internship during the summer of 2020. Specifically, our graduate programs are all somehow related to Statistics, which means that most of our posts and our knowledge generally is most applicable to people who are also in some form of a Statistics Ph.D. program or who are interested in such a program. After bonding over Microsoft Teams, we decided it would be fun to start a blog together, especially because we recognize how this informal advice can get stuck in certain channels that not all students have access to. 
 
 ### [Melody Huang](https://melodyyhuang.github.io/)
 
