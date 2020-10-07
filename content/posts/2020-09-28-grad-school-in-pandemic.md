@@ -1,13 +1,13 @@
 ---
 title: Surviving Grad School in the Pandemic
-date: 2020-09-28 16:56:54
-categories: 
+date: 2020-10-06 16:56:54
+categories: scheduling
 keywords: 
 ---
 
-A lot of this advice is generalizable to graduate school advice, even outside the context of trying to do a Ph.D. in the middle of a pandemic. However, I’ve found that things that used to be helpful in (1) maintaining my mental health, and (2) being able to be productive have now become crucial to hitting a baseline level of sanity and getting literally anything done.
+A lot of this advice is generalizable to graduate school advice, even outside the context of trying to do a Ph.D. in the middle of a pandemic. I’ve found that things that used to be helpful in (1) maintaining my mental health, and (2) being able to be productive have now become crucial to hitting a baseline level of sanity and getting literally anything done.
 
-Note: there are a couple caveats that should be highlighted. (1) I have been lucky in the sense that my Ph.D. requires no wet lab work, or work that necessitates my physical presence in any actual location. As a result, from a pragmatic standpoint, social distancing and working from home has really been an inconvenience, but not detrimental to my ability to make progress. (2) I have no family to take care of; for the most part, it’s sufficient for me to focus on my own health and well-being since I’m not directly responsible for taking care of someone else.
+There are a couple caveats that should be highlighted: (1) I have been lucky in the sense that my Ph.D. requires no wet lab work, or work that necessitates my physical presence in any actual location. As a result, from a pragmatic standpoint, social distancing and working from home has really been an inconvenience, but not detrimental to my ability to make progress. (2) I have no family to take care of; for the most part, it’s sufficient for me to focus on my own health and well-being since I’m not directly responsible for taking care of someone else.
 
 # Practical Advice for Research 
 ## Point 1. Make a plan for the term. 
@@ -59,4 +59,11 @@ It is easy, especially when working from home, to forget that work life boundari
 In normal times, I usually ate lunch (and often dinner) in the office with friends, went to the gym in the middle of the day, and had random conversations with friends in the common areas for periodic breaks. While it’s hard to re-create some of these interactions, I’ve shared a Zoom link with friends around the time I’m eating lunch in case they want to join me and chat briefly. People taking classes in my department have set up Zoom rooms where people can pop in and out as desired to chat through homework sets. I’ve also tried to set up more random phone or Zoom calls in the middle of the day. Striving to have similar levels of interaction, even if it’s virtual, can help create a semblance of normalcy. Pro-tip: you could try scheduling these moments in between time blocks and force yourself to take a break. 
 
 # Conclusion 
-We gotta write a conclusion !!! 
+While the title of the post promotes tips for productivity during the pandemic, I think it is important to point out that maximizing productivitiy may not necessarily be what we should all be prioritizing right now. In times when the temptation to doom scroll and obsessively think about societal collapse is stronger than ever, it can be helpful to remind ourselves that research is incremental, and so is personal progress. Trying to maintain net positive days (i.e., being able to cross off at least 1 item on your to-do list, whether it be research or personal related) is a success.
+
+# More Resources
+This was not meant to be a comprehensive list. If you have resources/tips that you think would be helpful, shoot us an email! 
+* [Advice to faculty who want to be able to assist grad students better during the pandemic:]
+(https://www.insidehighered.com/advice/2020/06/09/advice-helping-grad-students-through-summer-covid-19)
+
+* [Past webinar on “Surviving and Thriving as a STEM Grad Student during the pandemic” from Duke University Science & Society:]  (https://scienceandsociety.duke.edu/events/coronavirus-conversations-surviving-thriving-as-a-stem-grad-student-during-the-pandemic/)
