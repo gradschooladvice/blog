@@ -45,9 +45,9 @@ I usually like to go for a run or walk every day to see the outside world and ki
 Yoga: 
 * [Yoga with Adriene](https://www.youtube.com/user/yogawithadriene) 
 HIIT/Cardio: 
-* [Fitness Blender] (https://www.youtube.com/user/FitnessBlender) 
-* [Sydney Cummings] (https://www.youtube.com/channel/UCVQJZE_on7It_pEv6tn-jdA) 
-* [Heather Robertson] (https://www.youtube.com/user/heatherrobertsoncom)
+* [Fitness Blender](https://www.youtube.com/user/FitnessBlender) 
+* [Sydney Cummings](https://www.youtube.com/channel/UCVQJZE_on7It_pEv6tn-jdA) 
+* [Heather Robertson](https://www.youtube.com/user/heatherrobertsoncom)
 
 ### Point 2.5. Go outside! 
 I usually try to at least go for a walk every day in an attempt to remember there is more to the world than my room and the kitchen in my apartment. 
@@ -63,7 +63,6 @@ While the title of the post promotes tips for productivity during the pandemic, 
 
 # More Resources
 This was not meant to be a comprehensive list. If you have resources/tips that you think would be helpful, shoot us an email! 
-* [Advice to faculty who want to be able to assist grad students better during the pandemic:]
-(https://www.insidehighered.com/advice/2020/06/09/advice-helping-grad-students-through-summer-covid-19)
+* [Advice to faculty who want to be able to assist grad students better during the pandemic](https://www.insidehighered.com/advice/2020/06/09/advice-helping-grad-students-through-summer-covid-19)
 
-* [Past webinar on “Surviving and Thriving as a STEM Grad Student during the pandemic” from Duke University Science & Society:]  (https://scienceandsociety.duke.edu/events/coronavirus-conversations-surviving-thriving-as-a-stem-grad-student-during-the-pandemic/)
+* [Past webinar on “Surviving and Thriving as a STEM Grad Student during the pandemic” from Duke University Science & Society] (https://scienceandsociety.duke.edu/events/coronavirus-conversations-surviving-thriving-as-a-stem-grad-student-during-the-pandemic/)
