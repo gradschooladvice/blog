@@ -18,4 +18,6 @@ Mikaela is a third year Ph.D. student in the joint Statistics and Public Policy 
 
 ### [Dana Udwin](https://www.danaudwin.com)
 
+Dana is a fourth year Ph.D. student studying biostatstics in the Brown University School of Public Health. Her research lies in interpretability in machine learning and Bayesian methodology. Lately, she has been taking long walks with her dog to retrieve coffee and donuts (grad school jet fuel) and practicng Chinese.
+
 Email: stat[dot]grad[dot]school[dot]blog[at]gmail[dot]com
