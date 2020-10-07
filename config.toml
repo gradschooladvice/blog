@@ -2,3 +2,6 @@ baseURL = "https://gradschooladvice.github.io"
 languageCode = "en-us"
 title = "Advice with Replacement"
 theme = "cactus"
+
+[params]
+ description = "A lot of information in graduate school is shared through informal channels, like coffee chats, happy hours, and random office encounters. The goal of this blog is to try and provide a compilation of advice in a more formal setting so that everyone can have easier access to it."
