@@ -10,7 +10,7 @@ We are three PhD students who met during our remote summer internship during the
 
 ### [Melody Huang](https://melodyyhuang.github.io/)
 
-Melody is a third year Ph.D. student at UCLA studying Statistics. Her primary research interests are in causal inference and social statistics. Besides research, she likes leaving her apartment to go outside, scrolling through Twitter, and watching the Bachelor. 
+Melody is a third year Ph.D. student at UCLA studying Statistics. Her primary research interests are in causal inference and social statistics. Besides research, she tolerates running, and enjoys coffee, board games, and telling people about the (problematic) gendered societal expectations that the Bachelor implicitly reinforces.
 
 ### [Mikaela Meyer](https://mikaelameyer.netlify.app)
 
